@@ -1,6 +1,6 @@
 # Data Insights on Fetch’s Growth
 
-# Hello Stakeholder,
+### Hello Stakeholder,
 
 I wanted to share some key findings from my analysis of Fetch’s transactional and user data.
 
