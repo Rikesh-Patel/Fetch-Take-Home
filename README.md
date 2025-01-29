@@ -10,6 +10,7 @@ Key Data Quality Issues
 
 
 ![image](https://github.com/user-attachments/assets/c10600aa-0f3c-4bbb-bb98-27068d640183)
+
 Growth Insights (Based on "Fractional" Data)  
 - Fetch experienced **strong growth** from **2015-2022**, reaching **28k unique users** with **40% YoY growth** in 2022.  
 - However, **2023 and 2024 show a decline** (-42% and -25%, respectively). This signals a potential drop in user acquisition or retention, which warrants further investigation.  
