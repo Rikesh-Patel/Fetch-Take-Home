@@ -9,6 +9,7 @@ Key Data Quality Issues
 - **Historical Data Limitations**: The transactions table is limited to a few months in 2024. Additional details like **total receipt volume, total amount spent, and long-term user retention** over several years may provide a clearer view of Fetch’s growth.
 
 
+
 ![image](https://github.com/user-attachments/assets/c10600aa-0f3c-4bbb-bb98-27068d640183)
 
 Growth Insights (Based on "Fractional" Data)  
