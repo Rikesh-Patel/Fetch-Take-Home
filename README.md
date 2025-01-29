@@ -7,12 +7,12 @@ I wanted to share some key findings from my analysis of Fetch’s transactional 
 Key Data Quality Issues  
 - **Missing & Duplicate Data**: A significant portion of transactions data is missing product and user information. This means my insights represent only a fraction of the full dataset, affecting the accuracy of the trends.  
 - **Historical Data Limitations**: The transactions table is limited to a few months in 2024. Additional details like **total receipt volume, total amount spent, and long-term user retention** over several years may provide a clearer view of Fetch’s growth.
-- 
-Growth Insights (Based on "Fractional" Data)  
+
+
 ![image](https://github.com/user-attachments/assets/c10600aa-0f3c-4bbb-bb98-27068d640183)
+Growth Insights (Based on "Fractional" Data)  
 - Fetch experienced **strong growth** from **2015-2022**, reaching **28k unique users** with **40% YoY growth** in 2022.  
 - However, **2023 and 2024 show a decline** (-42% and -25%, respectively). This signals a potential drop in user acquisition or retention, which warrants further investigation.  
-
 
 Request for Action  
 To improve data accuracy and unlock deeper insights, I’d appreciate help with the following:  
